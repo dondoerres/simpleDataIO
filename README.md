@@ -5,7 +5,7 @@ There are two programs.
 
 forward.ino is really the Master
 
-samplepixelcode is really the slave which controls a sensor and responds to a few simple, single letter commands.
+samplepixelcode.ino is really the slave which controls a sensor and responds to a few simple, single letter commands.
 UPPER or lower case letters may be used
 
 b  -  deactivate actuator (Block view)
