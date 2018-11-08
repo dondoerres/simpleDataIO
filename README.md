@@ -9,9 +9,15 @@ samplepixelcode is really the slave which controls a sensor and responds to a fe
 UPPER or lower case letters may be used
 
 b  -  deactivate actuator (Block view)
+
 c  -  Return state of actuator
+
 d  -  acquire and return a set of 64 ir readings
+
 i  -  Take Arduino temperature (commented out, but with a link to code to set this up)
+
 p  -  One second delay
+
 t  -  Take baseplate temperature
+
 v  -  activate actuator (View)
