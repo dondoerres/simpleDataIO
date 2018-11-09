@@ -8,16 +8,16 @@ forward.ino is really the Master
 samplepixelcode.ino is really the slave which controls a sensor and responds to a few simple, single letter commands.
 UPPER or lower case letters may be used
 
-b  -  deactivate actuator (Block view)
+b  -  Deactivate actuator (Block view)
 
-c  -  Return state of actuator
+c  -  Return state (Condition) of actuator
 
-d  -  acquire and return a set of 64 ir readings
+d  -  Acquire and return a set of 64 ir Data readings
 
 i  -  Take Arduino temperature (commented out, but with a link to code to set this up)
 
-p  -  One second delay
+p  -  One second delay (a Pause)
 
-t  -  Take baseplate temperature
+t  -  Take baseplate Temperature
 
-v  -  activate actuator (View)
+v  -  Activate actuator (View)
